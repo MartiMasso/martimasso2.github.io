@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TeXify2 - hugo theme | weastur</title>
+    <title>Martí Massó: Home - hugo theme | weastur</title>
     <link>https://texify2.io/</link>
-    <description>Recent content on TeXify2 - hugo theme | weastur</description>
+    <description>Recent content on Martí Massó: Home - hugo theme | weastur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>me@weastur.com (Pavel Sapezhka)</managingEditor>
-    <webMaster>me@weastur.com (Pavel Sapezhka)</webMaster>
+    <managingEditor>massomarti@gmail.com (Martí Massó)</managingEditor>
+    <webMaster>massomarti@gmail.com (Martí Massó)</webMaster>
     <lastBuildDate>Thu, 24 Aug 2023 16:52:24 +0200</lastBuildDate><atom:link href="https://texify2.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
